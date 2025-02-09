@@ -1,0 +1,32 @@
+.contact {
+    font-family: playfair display, serif;
+    font-size: 1.4em;
+    background-color: #838289;
+    padding: 40px 40px 110px 40px;
+    margin: 0;
+    background-position: center;
+}
+
+.about {
+    font-family: playfair display, serif;
+    font-size: 1.4em;
+    background-color: #838289;
+    padding: 40px 40px 190px 40px;
+    margin: 0;   
+}
+
+.port {
+    font-family: playfair display, serif;
+    font-size: 1.4em;
+    background-color: #838289;
+    padding: 40px 40px 110px 40px;
+    margin: 0;   
+}
+
+.resume {
+    font-family: playfair display, serif;
+    font-size: 1.4em;
+    background-color: #838289;
+    padding: 40px 40px 150px 40px;
+    margin: 0;   
+}
