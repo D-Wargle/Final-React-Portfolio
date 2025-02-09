@@ -22,11 +22,11 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
 
-    `git clone git@github.com:D-Wargle/User-Portfolio.git`
+    `git clone https://github.com/D-Wargle/Final-React-Portfolio`
 
 2. **Navigate to the project directory:**
 
-    `cd User-Portfolio`
+    `cd Final-React-Portfolio`
 
 3. **Install dependencies:**
 
