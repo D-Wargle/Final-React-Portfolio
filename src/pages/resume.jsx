@@ -8,14 +8,14 @@ export default function resume() {
                 </a>
             </div>
             <div>
-                <h2><strong><u>Front End Proficencies</u></strong></h2>
+                <h2><strong><u>Front End Proficiencies</u></strong></h2>
                 <ul>
                     <li>HTML</li>
                     <li>CSS</li>
                     <li>JavaScript</li>
                     <li>React</li>
                 </ul>
-                <h2><strong><u>Back End Proficencies</u></strong></h2>
+                <h2><strong><u>Back End Proficiencies</u></strong></h2>
                 <ul>
                     <li>Node.js</li>
                     <li>Express</li>
