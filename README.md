@@ -89,3 +89,4 @@ If you have any questions about this project, feel free to reach out:
 
 - **GitHub:** [D-Wargle](https://github.com/D-Wargle/User-Portfolio)
 - **Email:** Danieltwarg@gmail.com
+- **deployed app** https://quiet-naiad-dc8aa7.netlify.app/
