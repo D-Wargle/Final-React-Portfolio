@@ -3,7 +3,7 @@ export default function resume() {
         <div class='resume'>
             <h1><strong>Resume</strong></h1>
             <div>
-                <a href="public/assets/Daniel T. Wargo Resume.rtf" target="_blank" rel="noopener noreferrer">
+                <a href="/Daniel T. Wargo Resume.rtf" target="_blank" rel="noopener noreferrer">
                     Download my resume
                 </a>
             </div>
